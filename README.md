@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Adriana Enriquez👋
 
-<!--
-**Adriana1617/Adriana1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate computer science engineer
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Carrer: Computer Systems Engineer and Software Development
+
+* Location: Mexico
+
+* Current position/job: Looking for new challenges
+
+* Current learning: Blockchain, smart contract development on EVM in Solidity and Rust
+
+### Skills & Technologies 
+
+Here are some of the tools and technologies I love working with:
+
+* ⁠Languages: C#, solidity and rust
+* ⁠Databases: SqlServer, MySQL 
+* ⁠Tools: GitHub, Git
+* ⁠Other: html, css
