@@ -17,6 +17,9 @@ Welcome to my GitHub! I'm a passionate computer science engineer
 Here are some of the tools and technologies I love working with:
 
 * ⁠Languages: C#, solidity and rust
-* ⁠Databases: SqlServer, MySQL 
+  
+* ⁠Databases: SqlServer, MySQL
+  
 * ⁠Tools: GitHub, Git
+  
 * ⁠Other: html, css
