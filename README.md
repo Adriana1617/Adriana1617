@@ -30,6 +30,6 @@ Here are some of the tools and technologies I love working with:
 
 ⚡ Recent Activity
 
-<!--START_SECTION:start-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:start-->
+<!--RECENT_ACTIVITY:last_update-->
