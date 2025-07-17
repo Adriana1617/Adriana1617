@@ -24,6 +24,8 @@ Here are some of the tools and technologies I love working with:
   
 * ⁠Other: html, css
 
+* 
+
 
 ⚡ Recent Activity
 
