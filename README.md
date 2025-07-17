@@ -23,3 +23,10 @@ Here are some of the tools and technologies I love working with:
 * ⁠Tools: GitHub, Git
   
 * ⁠Other: html, css
+
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
