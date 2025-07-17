@@ -8,11 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v3
 
-      - uses: jessicalostinspace/github-profile-activity-readme@main
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
