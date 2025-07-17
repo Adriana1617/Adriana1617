@@ -27,8 +27,9 @@ Here are some of the tools and technologies I love working with:
 * 
 
 
+
 ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:start-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:start-->
